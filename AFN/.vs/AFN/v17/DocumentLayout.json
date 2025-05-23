@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FNI\\INF 3631\\Automata_Finito_No_Determinista\\AFN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C566F708-DFE3-42E2-9DF7-34DDC6036FBD}|AFN.csproj|c:\\fni\\inf 3631\\automata_finito_no_determinista\\afn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C566F708-DFE3-42E2-9DF7-34DDC6036FBD}|AFN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C566F708-DFE3-42E2-9DF7-34DDC6036FBD}|AFN.csproj|c:\\fni\\inf 3631\\automata_finito_no_determinista\\afn\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C566F708-DFE3-42E2-9DF7-34DDC6036FBD}|AFN.csproj|solutionrelative:estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estado.cs",
+              "DocumentMoniker": "C:\\FNI\\INF 3631\\Automata_Finito_No_Determinista\\AFN\\estado.cs",
+              "RelativeDocumentMoniker": "estado.cs",
+              "ToolTip": "C:\\FNI\\INF 3631\\Automata_Finito_No_Determinista\\AFN\\estado.cs",
+              "RelativeToolTip": "estado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:27:07.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FNI\\INF 3631\\Automata_Finito_No_Determinista\\AFN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\FNI\\INF 3631\\Automata_Finito_No_Determinista\\AFN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:25:19.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

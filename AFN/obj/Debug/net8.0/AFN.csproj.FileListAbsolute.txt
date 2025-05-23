@@ -1,0 +1,14 @@
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\bin\Debug\net8.0\AFN.exe
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\bin\Debug\net8.0\AFN.deps.json
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\bin\Debug\net8.0\AFN.runtimeconfig.json
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\bin\Debug\net8.0\AFN.dll
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\bin\Debug\net8.0\AFN.pdb
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\AFN.GeneratedMSBuildEditorConfig.editorconfig
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\AFN.AssemblyInfoInputs.cache
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\AFN.AssemblyInfo.cs
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\AFN.csproj.CoreCompileInputs.cache
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\AFN.dll
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\refint\AFN.dll
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\AFN.pdb
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\AFN.genruntimeconfig.cache
+C:\FNI\INF 3631\Automata_Finito_No_Determinista\AFN\obj\Debug\net8.0\ref\AFN.dll
